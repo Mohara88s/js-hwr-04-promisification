@@ -1,6 +1,5 @@
 import './sass/main.scss';
 
-
 // Задание 2
 
 const users = [

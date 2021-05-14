@@ -1,8 +1,5 @@
 import './sass/main.scss';
 
-
-
-
 // Задание 1
 
 const delay = ms => {
